@@ -13,7 +13,7 @@
     echo "Connected Sucesfully";
     echo "<hr>";
 
-    $dbname = 'avalia02';
+    $dbname = 'site';
     $db = mysqli_select_db($conn, $dbname);
     
     if(!$db){
