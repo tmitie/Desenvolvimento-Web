@@ -15,13 +15,13 @@
 <HTML> 
     <HEAD> 
 <TITLE>Avaliação 2</TITLE>
-<META name="Tópicos Especiais III" content="Desenvolvimento Web  ">
-<META name="Thaynara Mitie" content="Engenharia de Computação">
+<META name="Meu site Web PHP" content="Desenvolvimento Web  ">
+<META name="Por: Thaynara Mitie" content="PHP, HTML">
 </HEAD> 
 <BODY>
 
     
-    <font size="12"><b><center>Avaliação 2</center></font></b>
+    <font size="12"><b><center>Locadora Online</center></font></b>
 
 <center><br><font size="5">Selecione sua Opção:</font><br>
         
