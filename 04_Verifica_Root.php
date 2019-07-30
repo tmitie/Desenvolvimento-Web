@@ -21,7 +21,7 @@ if(!isset($_SESSION['OK'])) {
    session_destroy();
    echo "<br><br><a href=02_Formulario.php?> Retornar ao Formulário </a>";
     
-   //header("Location: 02_Formulario.php");
+
    exit;
 } 
 
